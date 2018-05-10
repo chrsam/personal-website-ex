@@ -1,0 +1,28 @@
+h1 {
+  font-family: Lobster, Monospace;
+}
+h3 {
+  text-decoration: underline;
+}
+.grey-text {
+  color: grey;
+}
+.constrain-width {
+  max-width: 100%;
+}
+.white-text {
+    color: white;
+}
+.p {
+    font-size: 16px;
+    font-family: Monospace;
+}
+.smaller-image {
+    width: 100px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
